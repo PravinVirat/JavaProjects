@@ -1,0 +1,54 @@
+To Kill a Mockingbird`Harper Lee`15`Classic
+1984`George Orwell`15`Dystopian
+The Great Gatsby`F. Scott Fitzgerald`15`Fiction
+The Alchemist`Paulo Coelho`15`Fantasy
+The Lord of the Rings`J.R.R. Tolkien`15`Fantasy
+The Catcher in the Rye`J.D. Salinger`15`Fiction
+Harry Potter and the Sorcerer's Stone`J.K. Rowling`15`Fantasy
+Sapiens: A Brief History of Humankind`Yuval Noah Harari`15`Non-fiction
+The Girl on the Train`Paula Hawkins`14`Mystery
+Educated`Tara Westover`15`Memoir
+Dune`Frank Herbert`15`Science Fiction
+The Hitchhiker's Guide to the Galaxy`Douglas Adams`15`Science Fiction
+One Hundred Years of Solitude`Gabriel García Márquez`15`Magical Realism
+The Shining`Stephen King`15`Horror
+Brave New World`Aldous Huxley`15`Dystopian
+Gone Girl`Gillian Flynn`15`Thriller
+The Da Vinci Code`Dan Brown`14`Mystery
+The Silent Patient`Alex Michaelides`15`Thriller
+The Kite Runner`Khaled Hosseini`15`Fiction
+All the Light We Cannot See`Anthony Doerr`15`Historical Fiction
+The Book Thief`Markus Zusak`15`Historical Fiction
+Wolf Hall`Hilary Mantel`15`Historical Fiction
+The Pillars of the Earth`Ken Follett`15`Historical Fiction
+The Tattooist of Auschwitz`Heather Morris`15`Historical Fiction
+Neuromancer`William Gibson`15`Science Fiction
+Ender's Game`Orson Scott Card`15`Science Fiction
+The Immortal Life of Henrietta Lacks`Rebecca Skloot`15`Non-fiction
+Thinking, Fast and Slow`Daniel Kahneman`15`Psychology
+The Power of Habit`Charles Duhigg`15`Self-help
+Mistborn: The Final Empire`Brandon Sanderson`15`Fantasy
+The Girl with the Dragon Tattoo`Stieg Larsson`15`Mystery
+Good Omens`Neil Gaiman and Terry Pratchett`15`Fantasy
+The Road`Cormac McCarthy`18`Dystopian
+A Wrinkle in Time`Madeleine L'Engle`15`Science Fiction
+The Three-Body Problem`Liu Cixin`15`Science Fiction
+Kindred`Octavia E. Butler`15`Science Fiction
+A Clockwork Orange`Anthony Burgess`15`Dystopian
+The Picture of Dorian Gray`Oscar Wilde`15`Classic
+The Bell Jar`Sylvia Plath`15`Fiction
+The Immortalists`Chloe Benjamin`15`Fiction
+Neverwhere`Neil Gaiman`15`Fantasy
+The Martian`Andy Weir`15`Science Fiction
+The Night Circus`Erin Morgenstern`15`Fantasy
+The Goldfinch`Donna Tartt`15`Fiction
+The Handmaid's Tale`Margaret Atwood`15`Dystopian
+The Hobbit`J.R.R. Tolkien`15`Fantasy
+The Grapes of Wrath`John Steinbeck`15`Classic
+The Godfather`Mario Puzo`14`Crime
+A Game of Thrones`George R.R. Martin`14`Fantasy
+The Hitchhiker's Guide to the Galaxy`Douglas Adams`15`Science Fiction
+Who Moved my Cheese?`Dr Spencer Johnson`10`Psychology
+Tuesdays with Morrie`Mitch Albom`15`Classic
+Sivakamiyin sabatham`kalki`17`Classic
+Hello`Pravin`10`Classic
